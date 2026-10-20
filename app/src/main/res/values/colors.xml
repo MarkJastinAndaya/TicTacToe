@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ttt_background">#10241E</color>
+    <color name="ttt_surface">#173129</color>
+
+    <color name="ttt_primary">#20D89C</color>
+    <color name="ttt_on_primary">#082219</color>
+
+    <color name="ttt_text">#F2FAF6</color>
+    <color name="ttt_text_secondary">#B7CBC2</color>
+
+    <color name="ttt_x">#20D89C</color>
+    <color name="ttt_o">#FFCA80</color>
+    <color name="ttt_winning_tile">#285844</color>
+    <color name="ttt_error">#FFB4AB</color>
+</resources>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="setup_ready">Project setup complete</string>
+    <string name="student_credit">202411371 : Mark Jastin Andaya</string>
+
+    <string name="choose_mode">Choose your game mode</string>
+    <string name="single_player">Single Player</string>
+    <string name="two_player">Two Player</string>
+    <string name="leaderboard">Leaderboard</string>
+
+    <string name="player_setup">Player setup</string>
+    <string name="setup_instructions">Enter your names to get started</string>
+    <string name="player_one_name">Player 1 name</string>
+    <string name="player_two_name">Player 2 name</string>
+    <string name="computer_opponent">Your opponent is Computer</string>
+    <string name="computer_name">Computer</string>
+    <string name="ready">Ready</string>
+    <string name="back_to_menu">Back to Menu</string>
+
+    <string name="error_name_required">Please enter a name</string>
+    <string name="error_names_same">Use different names for each player</string>
+    <string name="error_name_reserved">Please choose a name other than Computer</string>
+
+    <string name="allocation_title">Your symbols</string>
+    <string name="allocation_hint">X makes the first move</string>
+    <string name="allocation_player">%1$s plays %2$s</string>
+
+    <string name="game_preparing">Get ready!</string>
+    <string name="game_assignments">%1$s plays %2$s\n%3$s plays %4$s</string>
+
+    <string name="countdown_tic">Tic</string>
+    <string name="countdown_tac">Tac</string>
+    <string name="countdown_toe">Toe!</string>
+    <string name="game_starting">Starting game…</string>
+    <string name="player_turn">%1$s\'s turn (%2$s)</string>
+    <string name="cell_empty">Row %1$d, column %2$d, empty</string>
+
+    <string name="game_winner">%1$s wins (%2$s)!</string>
+    <string name="game_draw">Draw!</string>
+    <string name="computer_thinking">Computer is thinking (%1$s)…</string>
+    <string name="cell_occupied">Row %1$d, column %2$d, %3$s</string>
+
+    <string name="round_complete">Round complete</string>
+    <string name="result_hint">Ready for another round?</string>
+    <string name="play_again">Play Again</string>
+
+    <string name="leaderboard_row">%1$d. %2$s\n%3$d wins · %4$d draws · %5$d losses</string>
+    <string name="leaderboard_save_error">Could not save this result.</string>
+    <string name="leaderboard_load_error">Could not load the leaderboard.</string>
+
+    <string name="leaderboard_caption">Ranked by wins, then draws</string>
+    <string name="leaderboard_stats">%1$d wins · %2$d draws · %3$d losses</string>
+    <string name="leaderboard_rank">#%1$d</string>
+
+    <string name="action_home">Home</string>
+    <string name="action_restart">Restart</string>
+    <string name="action_surrender">Surrender</string>
+
+    <string name="restart_title">Restart round?</string>
+    <string name="restart_message">The current round will be discarded. Player names will stay the same.</string>
+
+    <string name="surrender_title">Surrender round?</string>
+    <string name="surrender_message_single">Your opponent will win this round.</string>
+    <string name="surrender_message_two">The player whose turn it is will lose this round.</string>
+</resources>

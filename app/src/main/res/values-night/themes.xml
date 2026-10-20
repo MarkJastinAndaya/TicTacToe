@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.TicTacToe"
+        parent="Theme.Material3.Dark.NoActionBar">
+
+        <item name="colorPrimary">@color/ttt_primary</item>
+        <item name="colorOnPrimary">@color/ttt_on_primary</item>
+
+        <item name="colorSecondary">@color/ttt_o</item>
+        <item name="colorOnSecondary">@color/ttt_on_primary</item>
+
+        <item name="android:colorBackground">@color/ttt_background</item>
+        <item name="colorOnBackground">@color/ttt_text</item>
+
+        <item name="colorSurface">@color/ttt_surface</item>
+        <item name="colorOnSurface">@color/ttt_text</item>
+
+        <item name="colorError">@color/ttt_error</item>
+
+        <item name="android:windowBackground">@color/ttt_background</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+
+    </style>
+
+</resources>
